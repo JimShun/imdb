@@ -1,10 +1,9 @@
-name.basics.tsv.gz –
+## name.basics.tsv.gz –
 Contains the following information for names:
 
-nconst (string) - alphanumeric unique identifier of the name/person
-primaryName (string)– name by which the person is most often credited
-birthYear – in YYYY format
-deathYear – in YYYY format if applicable, else '\N'
-primaryProfession (array of strings)– the top-3 professions of the person
-knownForTitles (array of tconsts) – titles the person is known for
-
+<strong>nconst</strong> (string) - alphanumeric unique identifier of the name/person<br>
+<strong>primaryName</strong> (string)– name by which the person is most often credited<br>
+<strong>birthYear</strong> – in YYYY format<br>
+<strong>deathYear</strong> – in YYYY format if applicable, else '\N'<br>
+<strong>primaryProfession</strong> (array of strings)– the top-3 professions of the person<br>
+<strong>knownForTitles</strong> (array of tconsts) – titles the person is known for
